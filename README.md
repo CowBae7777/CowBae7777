@@ -1,5 +1,7 @@
 #
 <- **My Handsome Picture** 
+# Poor Views 
+![Views](https://komarev.com/ghpvc/?username=0BCT65TW&color=green)
 - 🔭 I’m currently working on ~STUST~
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on ...
